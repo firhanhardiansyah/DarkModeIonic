@@ -1,0 +1,7 @@
+{
+  "name": "darkMode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
